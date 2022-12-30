@@ -9,3 +9,7 @@
 
 ## To Pack
 - Power plug adaptor
+- Money belt
+
+### Maybe
+- Clothes line
